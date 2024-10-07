@@ -6,8 +6,13 @@ about:
   links:
     - icon: github
       text: Github
-      href: https://github.com/etc5523-2022
+      href: https://github.com/avas0027
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/anshumaan7569_/profilecard/?igsh=MXRlb3FuYjRpMWdiZQ== 
 
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+## Anshuman Vashisht
+
+I am pursuing a Master of Business Analytics at Monash University, blending a passion for data-driven decision-making with a strong foundation in corporate finance. With a background in playing basketball at a national level, i bring both discipline and teamwork to every project.i continuously exploring the intersection of data and business strategy, aiming to leverage advanced analytics to solve complex challenges.and also in the process of building a personal portfolio website to showcase his growing expertise in the field.
